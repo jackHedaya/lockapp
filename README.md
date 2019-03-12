@@ -1,3 +1,11 @@
 # lockapp
 
-A small command line tool to lock an app by moving its Unix executable to a folder located at /usr/local/bin/lckapps. To unlock the app, see unlockapp.
+A command line tool that "locks" an Application by moving its Unix executable to /usr/local/bin/lckapps. See <a href="../../../unlockapp">unlockapp</a> to unlock.
+
+## Installation
+
+See <a href="../../releases">releases.</a>
+
+## Usage
+
++ `$ unlockapp <Application>`
