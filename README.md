@@ -8,4 +8,4 @@ See <a href="../../releases">releases.</a>
 
 ## Usage
 
-+ `$ unlockapp <Application>`
++ `$ lockapp <Application>`
